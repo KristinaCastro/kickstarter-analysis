@@ -17,7 +17,11 @@ I created a chart in a new worksheet to pull the data that is needed for our ana
 
 ### Challenges and Difficulties Encountered
 Using the CountIfs () function was challenging. When figuring out the formula for the goal amount ranges, entering the range value in the correct place in the overall formula was the challenge. I would place the goal amount range value in the formula, then I would manually filter to check my answer and noticed it was incorrect. So, I went to the web to find examples and tutorials on using the CountIfs () function and was able to enter the formula correctly.
+
 ##Results
+##Based on the Outcomes Based on Launch Date analysis we can conclude:
+  1. Fundraisers launched in the months of May, June and July have higher success in meeting their fundraising goal.
+  2. Fundraisers launched in May have the most success in meeting their fundraising goal.
 
 
 
