@@ -9,7 +9,7 @@ With the Dataset, using the Years () Function I was able to pull the year of the
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/81998045/115982292-e6f59200-a567-11eb-93bc-92bb29df8a0c.png)
 
-### OutcomesBased on Goals
+### Outcomes Based on Goals
 I created a chart in a new worksheet to pull the data that is needed for our analysis. The chart is organized to show the percentage of successful, failed and canceled plays based on their funding amount. Using the CountIfs () function, I organized the data of each outcome per their goal range. I then calculated the percentage of successful, failed & canceled fundraisers.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/81998045/115982321-2c19c400-a568-11eb-8664-8b345993f286.png)
