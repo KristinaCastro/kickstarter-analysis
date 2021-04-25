@@ -5,5 +5,8 @@ Louise is an up & coming playwright who wants to start a fundraising campaign to
 
 ## Analysis and Challenges
 ### Outcomes Based on Launch Date
-With the Dataset, using the Years () Functions I was able to pull the year of the campaign launch date, which is the information we need to make our analysis. Now that the data has the needed information, I inserted a pivot table to filter for the outcomes of only theater fundraisers according to their launch dates. Once my pivot table displayed the needed data, I then created a line graph to further show the correlation between theater fundraisers that were successful, failed or canceled and the month the fundraisers were launched.![image](https://user-images.githubusercontent.com/81998045/115981803-90d31f80-a564-11eb-9498-e1b8c2aa7376.png)
+With the Dataset, using the Years () Functions I was able to pull the year of the campaign launch date, which is the information we need to make our analysis. Now that the data has the needed information, I inserted a pivot table to filter for the outcomes of only theater fundraisers according to their launch dates. Once my pivot table displayed the needed data, I then created a line graph to further show the correlation between theater fundraisers that were successful, failed or canceled and the month the fundraisers were launched.
+### OutcomesBased on Goals
+I created a chart in a new worksheet to pull the data that is needed for our analysis from the dataset. The chart is organized to show the percentage of successful, failed and canceled plays based on the funding amount. Using the CountIfs () function, I organized the data of each outcome per their goal range. I then calculated the percentage of successful, failed & canceled fundraisers.
+
 
