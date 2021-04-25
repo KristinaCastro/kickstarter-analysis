@@ -19,9 +19,21 @@ I created a chart in a new worksheet to pull the data that is needed for our ana
 Using the CountIfs () function was challenging. When figuring out the formula for the goal amount ranges, entering the range value in the correct place in the overall formula was the challenge. I would place the goal amount range value in the formula, then I would manually filter to check my answer and noticed it was incorrect. So, I went to the web to find examples and tutorials on using the CountIfs () function and was able to enter the formula correctly.
 
 ## Results
-## In Outcomes Based on Launch Date analysis we can conclude:
+### In our Outcomes Based on Launch Date analysis we can conclude:
   1. Fundraisers launched in the months of May, June and July have higher success in meeting their fundraising goal.
   2. Fundraisers launched in May have the most success in meeting their fundraising goal.
+
+### In our Outcomes Based on Goals analysis we can conclude:
+  1. Fundraisers with a goal amount under $5000 are most successful in reaching their goal.
+
+### Limitations of the dataset:
+When making our analysis the parent category and subcategory can skew our findings. On our Outcomes based on Launched date analysis, we gathered Theater    information which includes the subcategory of plays, musicals and space. With our analysis on outcomes based on plays we pulled data for plays only. So, the limitation is in identifying the specific data that’s needed to be able to provide Louise with a tailored analysis specific to her needs so she can successfully launch her play fundraiser.
+
+### Other possible tables/graphs the we could create:
+We could create bar charts to show the data more clearly than a line graph.
+
+
+
 
 
 
